@@ -1,0 +1,318 @@
+{
+  "sessions": [
+    {
+      "id": "867278697:867278697",
+      "data": {
+        "examples": [
+          {
+            "question": "I congratulated Liz _____ getting a new job.",
+            "answer": "on"
+          },
+          {
+            "question": "They accused us _____ telling lies.",
+            "answer": "of"
+          },
+          {
+            "question": "Nobody suspected the general _____ being a spy.",
+            "answer": "of"
+          },
+          {
+            "question": "What prevented you _____ coming to see us?",
+            "answer": "from"
+          },
+          {
+            "question": "The rain didn't stop us _____ enjoying our holiday.",
+            "answer": "from"
+          },
+          {
+            "question": "I forgot to thank them _____ helping me.",
+            "answer": "for"
+          },
+          {
+            "question": "Excuse me _____ being so late.",
+            "answer": "for"
+          },
+          {
+            "question": "Please forgive me _____ not writing to you.",
+            "answer": "for"
+          },
+          {
+            "question": "Are you interested _____ working for us?",
+            "answer": "in"
+          },
+          {
+            "question": "I'm not very good _____ learning languages.",
+            "answer": "at"
+          },
+          {
+            "question": "Sue must be fed up _____ studying.",
+            "answer": "with"
+          },
+          {
+            "question": "What are the advantages _____ having a car?",
+            "answer": "of"
+          },
+          {
+            "question": "Thanks very much _____ inviting me to your party.",
+            "answer": "for"
+          },
+          {
+            "question": "How about _____ meeting for lunch tomorrow?",
+            "answer": "about"
+          },
+          {
+            "question": "Why don't you go out instead _____ sitting at home all the time?",
+            "answer": "of"
+          },
+          {
+            "question": "Carol went to work in spite _____ feeling ill.",
+            "answer": "of"
+          },
+          {
+            "question": "We talked _____ the problem.",
+            "answer": "about"
+          },
+          {
+            "question": "You must apologise _____ what you said.",
+            "answer": "for"
+          },
+          {
+            "question": "We talked _____ going to America.",
+            "answer": "about"
+          },
+          {
+            "question": "You must apologise _____ not telling the truth.",
+            "answer": "for"
+          },
+          {
+            "question": "Have you succeeded _____ finding a job yet?",
+            "answer": "in"
+          },
+          {
+            "question": "They insisted _____ paying for the meal.",
+            "answer": "on"
+          },
+          {
+            "question": "I'm thinking _____ buying a house.",
+            "answer": "of"
+          }
+        ],
+        "correctAnswers": 0,
+        "wrongAnswers": [
+          {
+            "word": "get (persuade)",
+            "category": "Verbs + Object + To + Verb"
+          }
+        ],
+        "skippedWords": [],
+        "totalQuestions": 2,
+        "selectedExample": {
+          "question": "I wouldn't dream _____ asking them for money.",
+          "answer": "of"
+        },
+        "words": [
+          {
+            "word": "stop",
+            "category": "Gerund"
+          },
+          {
+            "word": "postpone",
+            "category": "Gerund"
+          },
+          {
+            "word": "admit",
+            "category": "Gerund"
+          },
+          {
+            "word": "avoid",
+            "category": "Gerund"
+          },
+          {
+            "word": "imagine",
+            "category": "Gerund"
+          },
+          {
+            "word": "finish",
+            "category": "Gerund"
+          },
+          {
+            "word": "consider",
+            "category": "Gerund"
+          },
+          {
+            "word": "deny",
+            "category": "Gerund"
+          },
+          {
+            "word": "enjoy",
+            "category": "Gerund"
+          },
+          {
+            "word": "fancy",
+            "category": "Gerund"
+          },
+          {
+            "word": "risk",
+            "category": "Gerund"
+          },
+          {
+            "word": "give up",
+            "category": "Gerund"
+          },
+          {
+            "word": "put off",
+            "category": "Gerund"
+          },
+          {
+            "word": "go on / carry on",
+            "category": "Gerund"
+          },
+          {
+            "word": "keep or keep on",
+            "category": "Gerund"
+          },
+          {
+            "word": "mind",
+            "category": "Gerund"
+          },
+          {
+            "word": "suggest",
+            "category": "Gerund"
+          },
+          {
+            "word": "afford",
+            "category": "To infinitive"
+          },
+          {
+            "word": "agree",
+            "category": "To infinitive"
+          },
+          {
+            "word": "arrange",
+            "category": "To infinitive"
+          },
+          {
+            "word": "decide",
+            "category": "To infinitive"
+          },
+          {
+            "word": "deserve",
+            "category": "To infinitive"
+          },
+          {
+            "word": "fail",
+            "category": "To infinitive"
+          },
+          {
+            "word": "forget",
+            "category": "To infinitive"
+          },
+          {
+            "word": "hope",
+            "category": "To infinitive"
+          },
+          {
+            "word": "learn",
+            "category": "To infinitive"
+          },
+          {
+            "word": "manage",
+            "category": "To infinitive"
+          },
+          {
+            "word": "offer",
+            "category": "To infinitive"
+          },
+          {
+            "word": "plan",
+            "category": "To infinitive"
+          },
+          {
+            "word": "promise",
+            "category": "To infinitive"
+          },
+          {
+            "word": "refuse",
+            "category": "To infinitive"
+          },
+          {
+            "word": "threaten",
+            "category": "To infinitive"
+          },
+          {
+            "word": "want",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "ask",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "help",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "expect",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "beg",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "mean (intend)",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "would like",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "would prefer",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "tell",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "remind",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "force",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "encourage",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "teach",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "enable",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "order",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "warn",
+            "category": "Verbs + Object + To + Verb"
+          },
+          {
+            "word": "invite",
+            "category": "Verbs + Object + To + Verb"
+          }
+        ],
+        "selectedWord": {
+          "word": "persuade",
+          "category": "Verbs + Object + To + Verb"
+        }
+      }
+    }
+  ]
+}
